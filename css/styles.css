@@ -80,4 +80,15 @@ a{
     align-items: flex-start;
 }
 
-.content
+.content_clain{
+    font-size: 64px;
+    color: var(--accent-color);
+    margin: 0;
+}
+
+.content_clain2{
+    font-size: 36px;
+    margin: .5rem 0;
+    margin-bottom: 2rem;
+}
+
