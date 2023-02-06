@@ -73,6 +73,7 @@ a{
 }
 
 .content{
+    padding: 5rem;
     max-width: var(--max-width);
     flex-grow: 1;
     display: flex;
@@ -83,7 +84,21 @@ a{
 }
 
 
-
+.slideButton {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    font-size: 3rem;
+    cursor: pointer;
+  }
+  
+  .prevSlide {
+    left: 1rem;
+  }
+  
+  .nextSlide {
+    right: 1rem;
+  }
 .content_clain{
     font-size: 64px;
     color: var(--accent-color);
