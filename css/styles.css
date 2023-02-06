@@ -79,7 +79,10 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    position: relative;
 }
+
+
 
 .content_clain{
     font-size: 64px;
