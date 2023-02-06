@@ -92,3 +92,24 @@ a{
     margin-bottom: 2rem;
 }
 
+.footer{
+    background-color: black;
+}
+
+.footer2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer3{
+    font-size: 19px;
+}
+
+.footer_title{
+    color: var(--accent-color);
+    margin: 0 0 1rem 0;
+}
+
+.footer_text{
+    margin: 0;
+}
